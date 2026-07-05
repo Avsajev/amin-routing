@@ -1,0 +1,25 @@
+# ==========================================================
+# Riot Games
+# ==========================================================
+
+# Основные сайты
+riotgames.com
+riotcdn.net
+riotcdn.com
+
+# Авторизация
+auth.riotgames.com
+account.riotgames.com
+
+# API
+api.riotgames.com
+developer.riotgames.com
+
+# Игровые сервисы
+clientconfig.rpg.riotgames.com
+entitlements.auth.riotgames.com
+geo.pas.si.riotgames.com
+
+# Matchmaking / Presence
+glz-euw-1.eu.a.pvp.net
+pd.eu.a
